@@ -56,4 +56,4 @@ video = VideoMetadata(video_link)
 length = video.get_video_length()
 
 random_timing = random.randint(0, length)
-print(random_timing)
+driver.execute_script(f"window.open('{video_link}');")
