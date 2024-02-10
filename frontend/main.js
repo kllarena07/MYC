@@ -13,4 +13,15 @@ const initializeInterface = () => {
   secondaryInner.insertBefore(interface, firstChild)
 }
 
-if (!document.querySelector('#interface')) initializeInterface()
+const toggleInterface = () => {
+  const interface = document.querySelector('#interface')
+  console.log(interface)
+  const isVisible = interface.style.display == "block"
+  console.log(isVisible)
+
+  isVisible ? interface.style.display = "none" : interface.style.display = "block"
+}
+
+document.addEventListener("load", () => {
+  if (!document.querySelector('#interface')) initializeInterface()
+})
