@@ -1,582 +1,527 @@
 [
-    {
-        "text": "Bank of America's weekly Roundup of fund",
-        "start": 0.16,
-        "duration": 3.84
-    },
-    {
-        "text": "flows showing investors are sticking",
-        "start": 2.12,
-        "duration": 3.88
-    },
-    {
-        "text": "with what's worked pouring more money",
-        "start": 4.0,
-        "duration": 4.32
-    },
-    {
-        "text": "into market leader Nvidia Yahoo finances",
-        "start": 6.0,
-        "duration": 4.88
-    },
-    {
-        "text": "head of news miles udland is here why",
-        "start": 8.32,
-        "duration": 3.72
-    },
-    {
-        "text": "are they doing it miles well the",
-        "start": 10.88,
-        "duration": 3.879
-    },
-    {
-        "text": "groundbreaking in feeder trade um I I",
-        "start": 12.04,
-        "duration": 4.12
-    },
-    {
-        "text": "think what's been interesting watching",
-        "start": 14.759,
-        "duration": 2.801
-    },
-    {
-        "text": "uh fun flows and kind of the other",
-        "start": 16.16,
-        "duration": 2.76
-    },
-    {
-        "text": "conversation that we've been having you",
-        "start": 17.56,
-        "duration": 3.12
-    },
-    {
-        "text": "know in the news room and on this show",
-        "start": 18.92,
-        "duration": 4.64
-    },
-    {
-        "text": "is how much the early going of 2024",
-        "start": 20.68,
-        "duration": 5.64
-    },
-    {
-        "text": "resembles what happened in 2023 now the",
-        "start": 23.56,
-        "duration": 4.84
-    },
-    {
-        "text": "stat from this week's note from M Carton",
-        "start": 26.32,
-        "duration": 3.84
-    },
-    {
-        "text": "and the team over in Bank America that's",
-        "start": 28.4,
-        "duration": 3.96
-    },
-    {
-        "text": "interesting Nvidia right now its market",
-        "start": 30.16,
-        "duration": 4.48
-    },
-    {
-        "text": "cap is double that of Tesla two parts to",
-        "start": 32.36,
-        "duration": 4.24
-    },
-    {
-        "text": "that story of course there's the Nvidia",
-        "start": 34.64,
-        "duration": 3.84
-    },
-    {
-        "text": "rally that we've seen the continuation",
-        "start": 36.6,
-        "duration": 4.6
-    },
-    {
-        "text": "Mega cap trade all around AI also the",
-        "start": 38.48,
-        "duration": 4.28
-    },
-    {
-        "text": "decline of Tesla now I think they're",
-        "start": 41.2,
-        "duration": 3.6
-    },
-    {
-        "text": "down you know what 25% so far this year",
-        "start": 42.76,
-        "duration": 4.279
-    },
-    {
-        "text": "give or take depending on the day um so",
-        "start": 44.8,
-        "duration": 4.04
-    },
-    {
-        "text": "you have that Dynamic within the",
-        "start": 47.039,
-        "duration": 3.441
-    },
-    {
-        "text": "Magnificent 7 I don't know how much time",
-        "start": 48.84,
-        "duration": 3.48
-    },
-    {
-        "text": "you guys have spent on the Magnificent",
-        "start": 50.48,
-        "duration": 4.559
-    },
-    {
-        "text": "Six are we are we doing that",
-        "start": 52.32,
-        "duration": 5.68
-    },
-    {
-        "text": "yet even it was about this time last",
-        "start": 55.039,
-        "duration": 5.801
-    },
-    {
-        "text": "year that hartnet and his group started",
-        "start": 58.0,
-        "duration": 5.079
-    },
-    {
-        "text": "socializing this idea of there being a",
-        "start": 60.84,
-        "duration": 4.16
-    },
-    {
-        "text": "magnificent 7 and because it was we were",
-        "start": 63.079,
-        "duration": 3.521
-    },
-    {
-        "text": "still in the Fang market and it it",
-        "start": 65.0,
-        "duration": 3.68
-    },
-    {
-        "text": "become like the manga because we kind of",
-        "start": 66.6,
-        "duration": 3.519
-    },
-    {
-        "text": "you know Facebook changed its name and",
-        "start": 68.68,
-        "duration": 2.52
-    },
-    {
-        "text": "it was we were trying to figure out how",
-        "start": 70.119,
-        "duration": 3.281
-    },
-    {
-        "text": "it was going to work and now it feels",
-        "start": 71.2,
-        "duration": 5.8
-    },
-    {
-        "text": "like we're at a new um a new stick like",
-        "start": 73.4,
-        "duration": 4.96
-    },
-    {
-        "text": "inflection point right we need a new",
-        "start": 77.0,
-        "duration": 3.6
-    },
-    {
-        "text": "shtick let's say to get us through 2024",
-        "start": 78.36,
-        "duration": 3.799
-    },
-    {
-        "text": "but you know the fundamentals of the",
-        "start": 80.6,
-        "duration": 3.08
-    },
-    {
-        "text": "market as we kind of see in this report",
-        "start": 82.159,
-        "duration": 3.721
-    },
-    {
-        "text": "where money's into Market funds money's",
-        "start": 83.68,
-        "duration": 3.68
-    },
-    {
-        "text": "out of the stock market people still",
-        "start": 85.88,
-        "duration": 3.64
-    },
-    {
-        "text": "scared of stocks overall and money going",
-        "start": 87.36,
-        "duration": 5.039
-    },
-    {
-        "text": "into Nvidia it's just you know in a way",
-        "start": 89.52,
-        "duration": 4.08
-    },
-    {
-        "text": "the calendar turned but nothing really",
-        "start": 92.399,
-        "duration": 2.801
-    },
-    {
-        "text": "changed and going off of that just in",
-        "start": 93.6,
-        "duration": 2.799
-    },
-    {
-        "text": "terms of the other flows that we have",
-        "start": 95.2,
-        "duration": 3.12
-    },
-    {
-        "text": "seen in the market yes people are",
-        "start": 96.399,
-        "duration": 3.921
-    },
-    {
-        "text": "optimistic in terms of maybe at least a",
-        "start": 98.32,
-        "duration": 4.2
-    },
-    {
-        "text": "handful of names but there is still",
-        "start": 100.32,
-        "duration": 4.079
-    },
-    {
-        "text": "certainly a lot of reasons to be",
-        "start": 102.52,
-        "duration": 4.08
-    },
-    {
-        "text": "skeptical the flows that we saw out of",
-        "start": 104.399,
-        "duration": 3.841
-    },
-    {
-        "text": "some of the regional plays obviously was",
-        "start": 106.6,
-        "duration": 3.64
-    },
-    {
-        "text": "one of the uh sticking points here one",
-        "start": 108.24,
-        "duration": 3.68
-    },
-    {
-        "text": "of the things that stuck out within this",
-        "start": 110.24,
-        "duration": 3.32
-    },
-    {
-        "text": "report and then also just the interest",
-        "start": 111.92,
-        "duration": 3.68
-    },
-    {
-        "text": "that continues to happen into these",
-        "start": 113.56,
-        "duration": 4.32
-    },
-    {
-        "text": "money market funds yeah I mean we I mean",
-        "start": 115.6,
-        "duration": 3.879
-    },
-    {
-        "text": "I'm hoping I'm hoping we all see it in",
-        "start": 117.88,
-        "duration": 2.8
-    },
-    {
-        "text": "our lives I hope you all love High Yi",
-        "start": 119.479,
-        "duration": 2.6
-    },
-    {
-        "text": "savings accounts and we're seeing that",
-        "start": 120.68,
-        "duration": 3.079
-    },
-    {
-        "text": "those rates still are you know depending",
-        "start": 122.079,
-        "duration": 5.281
-    },
-    {
-        "text": "on where you're at 4.4 4.7% is and you",
-        "start": 123.759,
-        "duration": 5.161
-    },
-    {
-        "text": "know I'm spent all of last year mentally",
-        "start": 127.36,
-        "duration": 3.0
-    },
-    {
-        "text": "preparing right for that to go under",
-        "start": 128.92,
-        "duration": 3.12
-    },
-    {
-        "text": "four and here we are still enjoying the",
-        "start": 130.36,
-        "duration": 3.959
-    },
-    {
-        "text": "spoils of the FED keeping rates elevated",
-        "start": 132.04,
-        "duration": 4.4
-    },
-    {
-        "text": "but um look at that at an Institutional",
-        "start": 134.319,
-        "duration": 4.841
-    },
-    {
-        "text": "level I think the NYCB stuff maybe let's",
-        "start": 136.44,
-        "duration": 4.24
-    },
-    {
-        "text": "keep it over here it's not as much of a",
-        "start": 139.16,
-        "duration": 3.159
-    },
-    {
-        "text": "deposit taking institution I'm not sure",
-        "start": 140.68,
-        "duration": 3.72
-    },
-    {
-        "text": "how much that influences it beyond the",
-        "start": 142.319,
-        "duration": 4.361
-    },
-    {
-        "text": "fact that you can still get now",
-        "start": 144.4,
-        "duration": 4.32
-    },
-    {
-        "text": "significantly above you know 100 basis",
-        "start": 146.68,
-        "duration": 4.8
-    },
-    {
-        "text": "points north of infl at least by having",
-        "start": 148.72,
-        "duration": 4.56
-    },
-    {
-        "text": "your money in a money market fund some",
-        "start": 151.48,
-        "duration": 3.2
-    },
-    {
-        "text": "kind of other savings vehicle if you're",
-        "start": 153.28,
-        "duration": 3.44
-    },
-    {
-        "text": "an institution or a portfolio manager",
-        "start": 154.68,
-        "duration": 4.44
-    },
-    {
-        "text": "and that Dynamic continues to push out",
-        "start": 156.72,
-        "duration": 4.12
-    },
-    {
-        "text": "this whole oh all the dry powder is",
-        "start": 159.12,
-        "duration": 3.28
-    },
-    {
-        "text": "going to come rushing into stocks and",
-        "start": 160.84,
-        "duration": 3.2
-    },
-    {
-        "text": "certainly the stock market is going up",
-        "start": 162.4,
-        "duration": 4.04
-    },
-    {
-        "text": "but this idea of where can people put",
-        "start": 164.04,
-        "duration": 3.64
-    },
-    {
-        "text": "their money well you've got plenty of",
-        "start": 166.44,
-        "duration": 3.719
-    },
-    {
-        "text": "options right now well I'm going to give",
-        "start": 167.68,
-        "duration": 3.639
-    },
-    {
-        "text": "you an assignment you got to think of",
-        "start": 170.159,
-        "duration": 2.241
-    },
-    {
-        "text": "something a little bit more creative",
-        "start": 171.319,
-        "duration": 4.241
-    },
-    {
-        "text": "than magnificent six yeah right but you",
-        "start": 172.4,
-        "duration": 5.72
-    },
-    {
-        "text": "know like the",
-        "start": 175.56,
-        "duration": 2.56
-    },
-    {
-        "text": "rhy you're just going to stop at that",
-        "start": 178.76,
-        "duration": 3.479
-    },
-    {
-        "text": "well no that would get us through I mean",
-        "start": 181.159,
-        "duration": 2.481
-    },
-    {
-        "text": "you know there nothing there's nothing",
-        "start": 182.239,
-        "duration": 4.321
-    },
-    {
-        "text": "wrong about saying that word I know it's",
-        "start": 183.64,
-        "duration": 5.2
-    },
-    {
-        "text": "a family program but it doesn't exactly",
-        "start": 186.56,
-        "duration": 3.959
-    },
-    {
-        "text": "you know violate those rules but that's",
-        "start": 188.84,
-        "duration": 3.24
-    },
-    {
-        "text": "true let's go we'll go through all of",
-        "start": 190.519,
-        "duration": 4.121
-    },
-    {
-        "text": "our 's take out theasaurus and just",
-        "start": 192.08,
-        "duration": 4.4
-    },
-    {
-        "text": "think what do you got for the S that's",
-        "start": 194.64,
-        "duration": 3.4
-    },
-    {
-        "text": "yeah that's our we'll check back on you",
-        "start": 196.48,
-        "duration": 2.88
-    },
-    {
-        "text": "know I do like to come in on Mondays I'm",
-        "start": 198.04,
-        "duration": 2.44
-    },
-    {
-        "text": "not saying I'll be on the show but I'll",
-        "start": 199.36,
-        "duration": 2.76
-    },
-    {
-        "text": "be in The Newsroom so on Monday we can",
-        "start": 200.48,
-        "duration": 3.319
-    },
-    {
-        "text": "Circle back and we'll well no I want",
-        "start": 202.12,
-        "duration": 3.199
-    },
-    {
-        "text": "this is for you guys cuz like who do I",
-        "start": 203.799,
-        "duration": 3.16
-    },
-    {
-        "text": "know you know I'm going to work over the",
-        "start": 205.319,
-        "duration": 3.801
-    },
-    {
-        "text": "Super Bowl I'm I'm the guy yesterday I'm",
-        "start": 206.959,
-        "duration": 3.441
-    },
-    {
-        "text": "the guy yesterday who was like I don't",
-        "start": 209.12,
-        "duration": 3.319
-    },
-    {
-        "text": "know we can pass on arm so like don't",
-        "start": 210.4,
-        "duration": 4.839
-    },
-    {
-        "text": "listen to me Super Six just like that",
-        "start": 212.439,
-        "duration": 4.88
-    },
-    {
-        "text": "super six",
-        "start": 215.239,
-        "duration": 4.56
-    },
-    {
-        "text": "go better than just reworking that",
-        "start": 217.319,
-        "duration": 4.881
-    },
-    {
-        "text": "Magnificent Seven into magnificent six",
-        "start": 219.799,
-        "duration": 4.36
-    },
-    {
-        "text": "all right miles thank you this is fun",
-        "start": 222.2,
-        "duration": 3.36
-    },
-    {
-        "text": "you got to come back maybe Monday we'll",
-        "start": 224.159,
-        "duration": 3.961
-    },
-    {
-        "text": "see",
-        "start": 225.56,
-        "duration": 2.56
-    }
+   {
+      "text": "usually this is a thing Banks would want",
+      "start": 0.04,
+      "duration": 3.56
+   },
+   {
+      "text": "to do if they wanted more attrition in",
+      "start": 1.48,
+      "duration": 4.0
+   },
+   {
+      "text": "the ranks of the lower performers but",
+      "start": 3.6,
+      "duration": 4.6
+   },
+   {
+      "text": "it's a time of transition so how unusual",
+      "start": 5.48,
+      "duration": 5.32
+   },
+   {
+      "text": "and perhaps what does the timing say",
+      "start": 8.2,
+      "duration": 4.0
+   },
+   {
+      "text": "about",
+      "start": 10.8,
+      "duration": 4.68
+   },
+   {
+      "text": "this yeah no I think that's exactly um",
+      "start": 12.2,
+      "duration": 4.96
+   },
+   {
+      "text": "the tension that's really interesting",
+      "start": 15.48,
+      "duration": 3.84
+   },
+   {
+      "text": "here is you know this is a bank that has",
+      "start": 17.16,
+      "duration": 4.4
+   },
+   {
+      "text": "been very vocal about wanting to rebuild",
+      "start": 19.32,
+      "duration": 5.199
+   },
+   {
+      "text": "after losing a lot of um you know a lot",
+      "start": 21.56,
+      "duration": 5.28
+   },
+   {
+      "text": "of its top investment bankers early last",
+      "start": 24.519,
+      "duration": 4.6
+   },
+   {
+      "text": "year and so to now come back with the",
+      "start": 26.84,
+      "duration": 4.56
+   },
+   {
+      "text": "bonus season that um you know especially",
+      "start": 29.119,
+      "duration": 5.521
+   },
+   {
+      "text": "brutal um it really does hurt morale um",
+      "start": 31.4,
+      "duration": 4.76
+   },
+   {
+      "text": "and obviously risks everything that",
+      "start": 34.64,
+      "duration": 2.88
+   },
+   {
+      "text": "they've been trying to do with this big",
+      "start": 36.16,
+      "duration": 3.879
+   },
+   {
+      "text": "rebuild and so um definitely a departure",
+      "start": 37.52,
+      "duration": 4.719
+   },
+   {
+      "text": "from what you normally see from Banks um",
+      "start": 40.039,
+      "duration": 4.241
+   },
+   {
+      "text": "It's Not Unusual for banks to give out",
+      "start": 42.239,
+      "duration": 4.281
+   },
+   {
+      "text": "you know they're called donuts or Bagels",
+      "start": 44.28,
+      "duration": 5.32
+   },
+   {
+      "text": "um in kind of Wall Street lingo um but",
+      "start": 46.52,
+      "duration": 4.8
+   },
+   {
+      "text": "usually it's done very sparingly and",
+      "start": 49.6,
+      "duration": 4.04
+   },
+   {
+      "text": "really done to to folks who you kind of",
+      "start": 51.32,
+      "duration": 4.559
+   },
+   {
+      "text": "want to see out the door um that's not",
+      "start": 53.64,
+      "duration": 3.599
+   },
+   {
+      "text": "the case here you know our understanding",
+      "start": 55.879,
+      "duration": 3.241
+   },
+   {
+      "text": "is that this is large SW of barklay",
+      "start": 57.239,
+      "duration": 3.16
+   },
+   {
+      "text": "investment bankers being being given",
+      "start": 59.12,
+      "duration": 4.36
+   },
+   {
+      "text": "these these Donuts or Bagels um and so",
+      "start": 60.399,
+      "duration": 4.76
+   },
+   {
+      "text": "uh really interesting time for this bank",
+      "start": 63.48,
+      "duration": 3.88
+   },
+   {
+      "text": "to try to to continue with its rebuild I",
+      "start": 65.159,
+      "duration": 3.64
+   },
+   {
+      "text": "mean the two people running that side of",
+      "start": 67.36,
+      "duration": 3.399
+   },
+   {
+      "text": "the business are Taylor Ry and calesi",
+      "start": 68.799,
+      "duration": 5.401
+   },
+   {
+      "text": "they according to to our sourcing they",
+      "start": 70.759,
+      "duration": 5.641
+   },
+   {
+      "text": "went in to their teams and they held on",
+      "start": 74.2,
+      "duration": 3.88
+   },
+   {
+      "text": "to the Rain makers they paid up and",
+      "start": 76.4,
+      "duration": 4.52
+   },
+   {
+      "text": "looked large excuse the pun um but they",
+      "start": 78.08,
+      "duration": 5.359
+   },
+   {
+      "text": "spent part of the pie retaining star",
+      "start": 80.92,
+      "duration": 4.08
+   },
+   {
+      "text": "Talent which is a which is a fair enough",
+      "start": 83.439,
+      "duration": 4.241
+   },
+   {
+      "text": "strategy retain your star rain makers",
+      "start": 85.0,
+      "duration": 4.96
+   },
+   {
+      "text": "but that means that that breeds",
+      "start": 87.68,
+      "duration": 3.799
+   },
+   {
+      "text": "resentment I've worked on Floors where",
+      "start": 89.96,
+      "duration": 4.08
+   },
+   {
+      "text": "this really breeds resentment and people",
+      "start": 91.479,
+      "duration": 4.801
+   },
+   {
+      "text": "leave you do need me you do need the mid",
+      "start": 94.04,
+      "duration": 4.719
+   },
+   {
+      "text": "tier to deliver ironically enough rain",
+      "start": 96.28,
+      "duration": 4.199
+   },
+   {
+      "text": "makers are wonderful but you do need",
+      "start": 98.759,
+      "duration": 3.64
+   },
+   {
+      "text": "worker bees as",
+      "start": 100.479,
+      "duration": 4.361
+   },
+   {
+      "text": "well yeah I think that's exactly right",
+      "start": 102.399,
+      "duration": 3.961
+   },
+   {
+      "text": "and that that is to your point what our",
+      "start": 104.84,
+      "duration": 3.44
+   },
+   {
+      "text": "sources were telling us was just that",
+      "start": 106.36,
+      "duration": 3.28
+   },
+   {
+      "text": "all the efforts that they went through",
+      "start": 108.28,
+      "duration": 3.32
+   },
+   {
+      "text": "last year to rebuild and not not just",
+      "start": 109.64,
+      "duration": 3.72
+   },
+   {
+      "text": "retain folks but really go out and hire",
+      "start": 111.6,
+      "duration": 3.519
+   },
+   {
+      "text": "folks I mean those efforts worked they",
+      "start": 113.36,
+      "duration": 3.84
+   },
+   {
+      "text": "were able to add dozens of managing",
+      "start": 115.119,
+      "duration": 4.441
+   },
+   {
+      "text": "directors and directors um but now at",
+      "start": 117.2,
+      "duration": 4.16
+   },
+   {
+      "text": "the end of the Year kind of when you",
+      "start": 119.56,
+      "duration": 4.199
+   },
+   {
+      "text": "know the rubber meets the road uh you",
+      "start": 121.36,
+      "duration": 4.32
+   },
+   {
+      "text": "see that that is you know potentially",
+      "start": 123.759,
+      "duration": 3.201
+   },
+   {
+      "text": "going to complicate the folks who",
+      "start": 125.68,
+      "duration": 4.24
+   },
+   {
+      "text": "decided to stay and and yeah um could",
+      "start": 126.96,
+      "duration": 4.999
+   },
+   {
+      "text": "ultimately really undermine a lot of",
+      "start": 129.92,
+      "duration": 3.48
+   },
+   {
+      "text": "what they've been able to do here well",
+      "start": 131.959,
+      "duration": 3.28
+   },
+   {
+      "text": "Jenny if if the reasoning behind this is",
+      "start": 133.4,
+      "duration": 4.16
+   },
+   {
+      "text": "the investment banking struggling I love",
+      "start": 135.239,
+      "duration": 3.681
+   },
+   {
+      "text": "what the head of ir said at the last",
+      "start": 137.56,
+      "duration": 4.039
+   },
+   {
+      "text": "earnings that there's quite enough not",
+      "start": 138.92,
+      "duration": 4.679
+   },
+   {
+      "text": "quite enough volatility for the markets",
+      "start": 141.599,
+      "duration": 3.961
+   },
+   {
+      "text": "but a little too much for banking so",
+      "start": 143.599,
+      "duration": 3.961
+   },
+   {
+      "text": "it's this awkward period of volatility",
+      "start": 145.56,
+      "duration": 4.28
+   },
+   {
+      "text": "not helping either side we get an",
+      "start": 147.56,
+      "duration": 4.72
+   },
+   {
+      "text": "investor update later this month are",
+      "start": 149.84,
+      "duration": 3.32
+   },
+   {
+      "text": "they going to be talking about the",
+      "start": 152.28,
+      "duration": 2.56
+   },
+   {
+      "text": "Revival of the Investment Bank are we",
+      "start": 153.16,
+      "duration": 4.32
+   },
+   {
+      "text": "finally in The Sweet",
+      "start": 154.84,
+      "duration": 4.6
+   },
+   {
+      "text": "Spot I think that's what everyone's",
+      "start": 157.48,
+      "duration": 4.759
+   },
+   {
+      "text": "hoping for um so at this investor update",
+      "start": 159.44,
+      "duration": 4.2
+   },
+   {
+      "text": "what they've talked a lot about is that",
+      "start": 162.239,
+      "duration": 4.161
+   },
+   {
+      "text": "they're planning to say um you know the",
+      "start": 163.64,
+      "duration": 4.48
+   },
+   {
+      "text": "investment bank right now it gets a lot",
+      "start": 166.4,
+      "duration": 3.6
+   },
+   {
+      "text": "of flak from investors because it takes",
+      "start": 168.12,
+      "duration": 3.68
+   },
+   {
+      "text": "up so much Capital relative to other",
+      "start": 170.0,
+      "duration": 3.959
+   },
+   {
+      "text": "parts of the bank um they love their",
+      "start": 171.8,
+      "duration": 3.84
+   },
+   {
+      "text": "Investment Bank they think it's a really",
+      "start": 173.959,
+      "duration": 3.961
+   },
+   {
+      "text": "high- performing unit they want to keep",
+      "start": 175.64,
+      "duration": 4.8
+   },
+   {
+      "text": "it um so I think their goal now is to",
+      "start": 177.92,
+      "duration": 4.48
+   },
+   {
+      "text": "just rebalance that and just invest in",
+      "start": 180.44,
+      "duration": 3.519
+   },
+   {
+      "text": "other parts of the bank and so you",
+      "start": 182.4,
+      "duration": 2.88
+   },
+   {
+      "text": "actually saw this morning Barclay's",
+      "start": 183.959,
+      "duration": 3.761
+   },
+   {
+      "text": "announced that they are buying Tesco uh",
+      "start": 185.28,
+      "duration": 3.959
+   },
+   {
+      "text": "their retail bank offering here in the",
+      "start": 187.72,
+      "duration": 3.36
+   },
+   {
+      "text": "UK and so you see them trying to make",
+      "start": 189.239,
+      "duration": 3.761
+   },
+   {
+      "text": "these steps where they won't",
+      "start": 191.08,
+      "duration": 3.92
+   },
+   {
+      "text": "de-emphasize or won't pull back on the",
+      "start": 193.0,
+      "duration": 3.519
+   },
+   {
+      "text": "Investment Bank but they'll just make",
+      "start": 195.0,
+      "duration": 3.4
+   },
+   {
+      "text": "the other parts of the bank bigger and",
+      "start": 196.519,
+      "duration": 4.161
+   },
+   {
+      "text": "that way the share of the of the company",
+      "start": 198.4,
+      "duration": 4.16
+   },
+   {
+      "text": "that the investment bank takes up isn't",
+      "start": 200.68,
+      "duration": 3.279
+   },
+   {
+      "text": "as large and that just helps them a lot",
+      "start": 202.56,
+      "duration": 3.28
+   },
+   {
+      "text": "on the capital front so I think we'll",
+      "start": 203.959,
+      "duration": 4.241
+   },
+   {
+      "text": "see more maneuvering like that um",
+      "start": 205.84,
+      "duration": 3.64
+   },
+   {
+      "text": "because everything they've said so far",
+      "start": 208.2,
+      "duration": 2.8
+   },
+   {
+      "text": "really is that they love this Investment",
+      "start": 209.48,
+      "duration": 2.8
+   },
+   {
+      "text": "Banking unit and they want to see it",
+      "start": 211.0,
+      "duration": 3.64
+   },
+   {
+      "text": "grow",
+      "start": 212.28,
+      "duration": 2.36
+   }
 ]
