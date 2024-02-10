@@ -47,6 +47,11 @@ class VideoMetadata:
         with youtube_dl.YoutubeDL(self.ydl_opts) as ydl:
             dict_meta = ydl.extract_info(self.video_link, download=False)
         return dict_meta.get('duration', 0)
+    
+    def get_video_title(self):
+        with youtube_dl.YoutubeDL(self.ydl_opts) as ydl:
+            dict_meta = ydl.extract_info(self.video_link, download=False)
+        return dict_meta.get('title', '')
 
 # Input video link
 video_link = input("Enter the YouTube video link: ")
@@ -54,6 +59,8 @@ video_link = input("Enter the YouTube video link: ")
 # Create an instance of VideoMetadata and get the video length
 video = VideoMetadata(video_link)
 length = video.get_video_length()
+title = video.get_video_title()
 
 random_timing = random.randint(0, length)
 driver.execute_script(f"window.open('{video_link}');")
+print("Title of the video:", title)
