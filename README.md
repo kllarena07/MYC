@@ -1,11 +1,12 @@
 ---
 
-# Hacklytics 2024: "My YouTube Companion" by Varsh. 
-
+# Hacklytics 2024: "My YouTube Companion" by Vansh Bataviya, Kieran Llarena, Sadokat Raupova, Iris  Shakya, 
 
 ---
+
 ![MYC Logo](https://github.com/vanshb03/Hacklytics2024/assets/158211829/d96b39e1-b04b-4b56-9c64-2b26b7e9cebc)
 
+---
 
 ## Introduction: 
 
@@ -49,7 +50,7 @@ In addition to its core functionality, MYC offers further interaction through tw
 ---
 
 ## What's next for MYC:
-
+The scope of the MYC is enormous. We are planning on integrating MYC to focus not only on finance but also on subjects such as biology, chemistry, math, statistics, and almost any subject/profession you could think of.  
 ---
 
 ## Built With:
