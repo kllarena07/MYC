@@ -1,7 +1,7 @@
 {
-  "name": "myc",
-  "version": "1.0",
-  "description": "wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow wow",
+  "name": "MYC",
+  "version": "1.0.14",
+  "description": "My Youtube Companion",
   "manifest_version": 2,
   "background": {
     "scripts": ["background.js"],
