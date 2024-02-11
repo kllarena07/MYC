@@ -86,7 +86,7 @@ By leveraging these insights and experiences, we were able to create a revolutio
 
 ## What's next for MYC:
 
-The scope of the MYC is enormous. We are planning on integrating MYC to focus not only on finance but also on subjects such as biology, chemistry, math, statistics, and almost any subject/profession you could think of.  
+The scope of MYC's application is extensive. Our goal is to broaden its reach beyond finance to encompass a diverse array of subjects and disciplines. From biology and chemistry to mathematics, statistics, and beyond, MYC aims to cater to the learning needs of individuals across various academic and professional fields. With this expansion, users will have access to on-demand assistance and support in navigating complex concepts and terminology, fostering a more enriching and accessible learning experience across a wide spectrum of subjects.
 
 ## Try it out:
 
