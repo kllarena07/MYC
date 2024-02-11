@@ -98,6 +98,8 @@ const mountDropdown = (elem) => {
 }
 
 window.onload = () => {
+  // window.location.href
+
   let tries = 0;
   console.log("Searching for #secondary-inner")
   let secondaryInner = document.getElementById("secondary-inner")
@@ -124,12 +126,17 @@ window.onload = () => {
           stores.btn.animate(attention.animation, attention.options)
         }
       })
+      stores.video.addEventListener("play", () => {
+        if (buttonToggled) {
+          stores.btn.textContent = "Talk to Myc"
+          stores.dropdown.animate(shrink.animation, shrink.options)
+          buttonToggled = false
+        }
+      })
       stores.video.addEventListener("timeupdate", () => {
         stores.currentTime = stores.video.currentTime.toFixed(3)
         console.log(stores.currentTime)
       })
-
-      console.log(stores)
     }
   }, 800)
 }
