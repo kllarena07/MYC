@@ -15,10 +15,10 @@ const attention = {
 const grow = {
   animation: [
     { height: '0' },
-    { height: '480px' }
+    { height: '448px' }
   ],
   options: {
-    duration: 800,
+    duration: 300,
     iterations: 1,
     fill: 'forwards'
   }
@@ -26,11 +26,11 @@ const grow = {
 
 const shrink = {
   animation: [
-    { height: '480px' },
+    { height: '448px' },
     { height: '0' }
   ],
   options: {
-    duration: 800,
+    duration: 300,
     iterations: 1,
     fill: 'forwards'
   }
@@ -40,7 +40,8 @@ let buttonToggled = false
 let stores = {
   dropdown: undefined,
   video: undefined,
-  btn: undefined
+  btn: undefined,
+  currentTime: 0,
 }
 const toggleDropdown = () => {
   if(!buttonToggled) {
@@ -61,6 +62,17 @@ const mountDropdownToggle = (elem) => {
   btn.textContent = "Talk to Myc"
   btn.style.width = "100%"
   btn.style.transition = "box-shadow 200ms ease"
+  btn.style.backgroundColor = "var(--yt-spec-text-primary)"
+  btn.style.color = "var(--yt-spec-text-primary-inverse)"
+  btn.style.padding = "0 var(--ytd-margin-3x)"
+  btn.style.fontFamily = '"Roboto", "Arial", sans-serif'
+  btn.style.font = "1.4rem"
+  btn.style.lineHeight = "2rem"
+  btn.style.fontWeight = "500"
+  btn.style.border = "none"
+  btn.style.borderRadius = "8px"
+  btn.style.height = "32px"
+  btn.style.cursor = "pointer"
   btn.id = "toggle-interface"
   btn.addEventListener("click", toggleDropdown)
 
@@ -101,24 +113,23 @@ window.onload = () => {
     } else {
       clearInterval(forceSelect)
       
-      mountDropdown(secondaryInner)
+      mountDropdownToggle(secondaryInner)
       setTimeout(() => {
-        mountDropdownToggle(secondaryInner)
+        mountDropdown(secondaryInner)
       }, 500)
 
       stores.video = document.querySelector('.video-stream.html5-main-video')
       stores.video.addEventListener("pause", () => {
         if(!buttonToggled) {
-          stores.btn.animate(attention.animation, attention.options);
+          stores.btn.animate(attention.animation, attention.options)
         }
+      })
+      stores.video.addEventListener("timeupdate", () => {
+        stores.currentTime = stores.video.currentTime.toFixed(3)
+        console.log(stores.currentTime)
       })
 
       console.log(stores)
     }
   }, 800)
 }
-
-// when button is clicked
-// 1. video state changes from playing to pause
-// 2. time instance is recorded
-// 3. 
