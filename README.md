@@ -25,22 +25,22 @@ Imagine watching a tutorial on stock market analysis and effortlessly understand
 
 ---
 
-## Accomplishments that we're proud of
+## Accomplishments that we're proud of:
 
 ---
 
-## What we learned
+## What we learned:
 
 ---
 
-## What's next for MYC
+## What's next for MYC:
 
 ---
 
-## Built With
+## Built With:
 
 ---
 
-## Try it out
+## Try it out:
 
 --
