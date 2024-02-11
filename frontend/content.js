@@ -67,7 +67,7 @@ const toggleDropdown = () => {
   } else {
     stores.dropdown.animate(shrink.animation, shrink.options)
     stores.video.play()
-    stores.btn.textContent = "Talk to Myc"
+    stores.btn.textContent = "Talk to MYC"
     stores.btn.borderRadius = "8px"
     buttonToggled = false
   }
@@ -75,7 +75,7 @@ const toggleDropdown = () => {
 
 const mountDropdownToggle = (elem) => {
   const btn = document.createElement("button")
-  btn.textContent = "Talk to Myc"
+  btn.textContent = "Talk to MYC"
   btn.style.width = "100%"
   btn.style.transition = "200ms ease"
   btn.style.backgroundColor = "var(--yt-spec-text-primary)"
@@ -149,7 +149,7 @@ window.onload = () => {
       })
       stores.video.addEventListener("play", () => {
         if (buttonToggled) {
-          stores.btn.textContent = "Talk to Myc"
+          stores.btn.textContent = "Talk to MYC"
           stores.dropdown.animate(shrink.animation, shrink.options)
           buttonToggled = false
         }

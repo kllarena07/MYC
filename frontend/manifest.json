@@ -8,6 +8,11 @@
     "persistent": false
   },
   "author": "kllarena07",
+  "icons": { 
+      "16": "logo.png",
+      "48": "logo.png",
+     "128": "logo.png" 
+    },
   "content_scripts": [
     {
       "js": ["content.js"],
