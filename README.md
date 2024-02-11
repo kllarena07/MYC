@@ -34,25 +34,52 @@ In addition to its core functionality, MYC offers further interaction through tw
   
 ## How we built it:
 
----
+My YouTube Companion (MYC) utilizing a combination of web scraping, video processing, data handling, and web service implementation to achieve its functionality.
+
+- ### Web Scraping and Video Processing:
+The project involves scraping information from YouTube videos, including their transcripts, using libraries like BeautifulSoup and youtube_transcript_api. This allows MYC to access the content of the video and analyze it in real-time and help the user to understand what they may have not understood through the content.
+
+- ### Data Handling and Analysis:
+With the usage of pandas, the project manages and analyzes the data obtained from web scraping and video processing. This could involve tasks such as filtering, sorting, or extracting relevant information from the scraped content and video transcripts.
+
+- ### Web Service Implementation:
+The Flask framework is employed to build a web service, which serves as the interface for users to interact with MYC's functionalities. This includes providing real-time assistance, offering definitions and examples, and enabling further exploration of unfamiliar terms without interrupting the video playback.
 
 ## Challenges we ran into:
 
----
+Given the complexity of integrating various technologies and functionalities into a seamless user experience, there are likely several challenges encountered during the development process. Some potential challenges could include:
+
+- **Integration of Web Scraping and Video Processing:** Ensuring that the web scraping and video processing components work seamlessly together to provide accurate and timely assistance without causing performance issues or delays.
+- **Real-time Assistance:** Implementing real-time assistance features, such as identifying unfamiliar terms and providing definitions/examples, while minimizing latency and maintaining responsiveness.
+- **User Interface Design:** Designing an intuitive and user-friendly interface for MYC that seamlessly integrates with the YouTube platform and provides easy access to its functionalities without cluttering the user experience.
 
 ## Accomplishments that we're proud of:
 
----
+- **Seamless Integration with YouTube:** Successfully integrating MYC as an add-on with the YouTube platform, allowing users to access its features without interrupting their video playback experience.
+- **Real-time Assistance:** Implementing real-time assistance features that provide quick, accurate, and concise information to users without disrupting their learning process.
+- **Enhanced Learning Experience:** Creating a tool that enriches the learning experience on YouTube by providing on-the-spot assistance, definitions, and examples, thereby empowering users to grasp new concepts effortlessly.
 
 ## What we learned:
 
----
+- **Technological Integration:** Through the development of MYC, we gained valuable experience in integrating various technologies and libraries, such as web scraping, video processing, and web service implementation, to create a cohesive solution.
+- **User-Centric Design:** We learned the importance of designing with the user in mind, focusing on creating a seamless and intuitive user experience that enhances learning without causing distractions or interruptions.
+- **Problem Solving:** Facing and overcoming challenges encountered during the development process taught us valuable problem-solving skills and strengthened our ability to adapt and innovate in complex technical environments.
 
-## What's next for MYC:
+By leveraging these insights and experiences, we were able to create a revolutionary tool that transforms the YouTube learning experience and empowers users to unlock the full potential of online education.
+
 
 ---
 
 ## Built With:
+
+- **Python**
+- **Javascript**
+- **Docker**
+- **OpenAI**
+- **OpenAI**
+- **OpenAI**
+- **OpenAI**
+- **OpenAI**
 
 ---
 
