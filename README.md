@@ -84,6 +84,10 @@ By leveraging these insights and experiences, we were able to create a revolutio
 
 ---
 
+## What's next for MYC:
+
+The scope of the MYC is enormous. We are planning on integrating MYC to focus not only on finance but also on subjects such as biology, chemistry, math, statistics, and almost any subject/profession you could think of.  
+
 ## Try it out:
 
 ---
