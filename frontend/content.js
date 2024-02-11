@@ -1182,6 +1182,7 @@ window.onload = () => {
         if (buttonToggled) {
           stores.btn.textContent = "Talk to MYC"
           stores.dropdown.animate(shrink.animation, shrink.options)
+          stores.dropdown.style.padding = "0px"
           buttonToggled = false
         }
       })
