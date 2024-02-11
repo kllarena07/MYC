@@ -1,0 +1,1002 @@
+[
+   {
+      "text": "hi",
+      "start": 0.12
+   },
+   {
+      "text": "in this video we lay out an easy guide",
+      "start": 1.26
+   },
+   {
+      "text": "to understand the basics of options",
+      "start": 3.72
+   },
+   {
+      "text": "trading for a beginner",
+      "start": 5.64
+   },
+   {
+      "text": "options are one of the most complex",
+      "start": 7.74
+   },
+   {
+      "text": "financial instruments to speculate with",
+      "start": 9.54
+   },
+   {
+      "text": "whilst financial markets themselves can",
+      "start": 11.94
+   },
+   {
+      "text": "be risky options are many times riskier",
+      "start": 13.92
+   },
+   {
+      "text": "and therefore require expert knowledge",
+      "start": 16.74
+   },
+   {
+      "text": "to trade and master",
+      "start": 19.14
+   },
+   {
+      "text": "let's quickly address the most basic",
+      "start": 21.48
+   },
+   {
+      "text": "part first",
+      "start": 23.279
+   },
+   {
+      "text": "what are options",
+      "start": 24.539
+   },
+   {
+      "text": "though it trades as a standard",
+      "start": 27.72
+   },
+   {
+      "text": "instrument an option is basically a",
+      "start": 29.46
+   },
+   {
+      "text": "contract between two investors that",
+      "start": 31.56
+   },
+   {
+      "text": "helps them speculate on the price of an",
+      "start": 33.48
+   },
+   {
+      "text": "asset",
+      "start": 35.579
+   },
+   {
+      "text": "this speculation can happen without",
+      "start": 36.6
+   },
+   {
+      "text": "actually owning the asset let's",
+      "start": 38.7
+   },
+   {
+      "text": "understand this with an example",
+      "start": 40.92
+   },
+   {
+      "text": "let's assume a Trader has a view on",
+      "start": 43.559
+   },
+   {
+      "text": "Tesla's stock price three months down",
+      "start": 45.48
+   },
+   {
+      "text": "the line",
+      "start": 47.1
+   },
+   {
+      "text": "we can call this Trader a Tesla ball",
+      "start": 48.18
+   },
+   {
+      "text": "Tesla ball thinks that the market is",
+      "start": 50.879
+   },
+   {
+      "text": "mispricing the stock and that the actual",
+      "start": 52.92
+   },
+   {
+      "text": "value of the company is higher and this",
+      "start": 55.14
+   },
+   {
+      "text": "should be reflected in the stock price",
+      "start": 57.3
+   },
+   {
+      "text": "in three months",
+      "start": 58.739
+   },
+   {
+      "text": "Mr Bull wants to speculate based on his",
+      "start": 60.6
+   },
+   {
+      "text": "view but does not want to buy Tesla",
+      "start": 63.239
+   },
+   {
+      "text": "shares",
+      "start": 65.46
+   },
+   {
+      "text": "he comes across another Trader who has",
+      "start": 66.479
+   },
+   {
+      "text": "an opposite view on the company's stock",
+      "start": 68.46
+   },
+   {
+      "text": "price we can call this Trader the Tesla",
+      "start": 69.9
+   },
+   {
+      "text": "bear",
+      "start": 72.78
+   },
+   {
+      "text": "Tesla Bull and Tesla bear enter into an",
+      "start": 74.159
+   },
+   {
+      "text": "agreement that lists their views thereby",
+      "start": 77.34
+   },
+   {
+      "text": "providing Tesla ball the right to buy",
+      "start": 79.619
+   },
+   {
+      "text": "the shares from Tesla bear at a",
+      "start": 81.6
+   },
+   {
+      "text": "predetermined price",
+      "start": 84.0
+   },
+   {
+      "text": "this is called the exercise price",
+      "start": 85.439
+   },
+   {
+      "text": "so for example if the price agrees",
+      "start": 89.34
+   },
+   {
+      "text": "between both parties is 165 dollars Mr",
+      "start": 92.28
+   },
+   {
+      "text": "Bull has an option to buy the stock at",
+      "start": 95.88
+   },
+   {
+      "text": "165 after three months",
+      "start": 98.06
+   },
+   {
+      "text": "now if the stock price at the end of",
+      "start": 101.4
+   },
+   {
+      "text": "three months is a hundred and ninety",
+      "start": 103.32
+   },
+   {
+      "text": "dollars the bullish Trader stands to",
+      "start": 104.82
+   },
+   {
+      "text": "gain 25 from the agreement as he can now",
+      "start": 106.799
+   },
+   {
+      "text": "buy the shares at a lower price from the",
+      "start": 109.74
+   },
+   {
+      "text": "bearish trader",
+      "start": 111.659
+   },
+   {
+      "text": "the bullish Trader exercises the option",
+      "start": 113.34
+   },
+   {
+      "text": "and can sell the shares immediately at a",
+      "start": 115.56
+   },
+   {
+      "text": "hundred and ninety dollars carving out a",
+      "start": 118.079
+   },
+   {
+      "text": "nice profit",
+      "start": 120.299
+   },
+   {
+      "text": "on the other hand if the stock price",
+      "start": 122.34
+   },
+   {
+      "text": "after three months is lower than the",
+      "start": 124.02
+   },
+   {
+      "text": "agreed 165 dollars the bullish Trader",
+      "start": 125.64
+   },
+   {
+      "text": "can choose not to buy shares at 165",
+      "start": 128.459
+   },
+   {
+      "text": "because those Shares are available at a",
+      "start": 130.94
+   },
+   {
+      "text": "better price",
+      "start": 133.68
+   },
+   {
+      "text": "but is this a bad deal for the bearish",
+      "start": 135.9
+   },
+   {
+      "text": "Trader",
+      "start": 138.54
+   },
+   {
+      "text": "he loses when the price goes up and",
+      "start": 139.5
+   },
+   {
+      "text": "doesn't gain when the price moves down",
+      "start": 142.2
+   },
+   {
+      "text": "well not really",
+      "start": 145.26
+   },
+   {
+      "text": "enter options premium which is an",
+      "start": 147.18
+   },
+   {
+      "text": "element in the agreement that will",
+      "start": 149.76
+   },
+   {
+      "text": "safeguard the interest of the Tesla bear",
+      "start": 151.02
+   },
+   {
+      "text": "there would be a premium amount agreed",
+      "start": 153.66
+   },
+   {
+      "text": "upon at the time of the contract and it",
+      "start": 155.819
+   },
+   {
+      "text": "will be paid by the Tesla bull to the",
+      "start": 157.68
+   },
+   {
+      "text": "Tesla bear for bearing the risk",
+      "start": 159.72
+   },
+   {
+      "text": "the premium is non-adjustable and",
+      "start": 162.48
+   },
+   {
+      "text": "non-returnable which means the bear",
+      "start": 165.12
+   },
+   {
+      "text": "keeps it irrespective of the outcome",
+      "start": 167.34
+   },
+   {
+      "text": "so if the premium amount is ten dollars",
+      "start": 172.5
+   },
+   {
+      "text": "the Tesla bull gains only 15 from the",
+      "start": 174.78
+   },
+   {
+      "text": "contract if the price closes at 190",
+      "start": 177.959
+   },
+   {
+      "text": "after three months",
+      "start": 180.48
+   },
+   {
+      "text": "Tesla Bear's loss is also 15 as the 25",
+      "start": 183.18
+   },
+   {
+      "text": "loss at the time of exercising the",
+      "start": 186.599
+   },
+   {
+      "text": "contract gets covered by the 10 premium",
+      "start": 188.64
+   },
+   {
+      "text": "he received while entering the contract",
+      "start": 191.34
+   },
+   {
+      "text": "on the other hand if price closes below",
+      "start": 194.64
+   },
+   {
+      "text": "165 the Tesla bull loses the 10 premium",
+      "start": 196.8
+   },
+   {
+      "text": "and the Tesla bear gains the same amount",
+      "start": 200.7
+   },
+   {
+      "text": "as he gets to keep the premium",
+      "start": 202.98
+   },
+   {
+      "text": "in this example the Tesla bull will be",
+      "start": 206.879
+   },
+   {
+      "text": "termed as an option buyer and the Tesla",
+      "start": 209.099
+   },
+   {
+      "text": "bear will be termed as an option seller",
+      "start": 211.8
+   },
+   {
+      "text": "an option buyer has the right but not an",
+      "start": 214.379
+   },
+   {
+      "text": "obligation to honor the contract and an",
+      "start": 217.26
+   },
+   {
+      "text": "option seller has an obligation to",
+      "start": 219.599
+   },
+   {
+      "text": "comply if the option buyer chooses to",
+      "start": 221.519
+   },
+   {
+      "text": "exercise his right",
+      "start": 223.739
+   },
+   {
+      "text": "in the example because the option buyer",
+      "start": 225.959
+   },
+   {
+      "text": "was bullish on the Tesla stock the",
+      "start": 228.36
+   },
+   {
+      "text": "option he will use is a call option",
+      "start": 230.34
+   },
+   {
+      "text": "a call option gives the buyer the right",
+      "start": 232.92
+   },
+   {
+      "text": "to buy Securities at a predetermined",
+      "start": 235.08
+   },
+   {
+      "text": "price",
+      "start": 237.36
+   },
+   {
+      "text": "a bullish investor here buys the call",
+      "start": 238.5
+   },
+   {
+      "text": "option while the bearish investor sells",
+      "start": 240.659
+   },
+   {
+      "text": "the call option",
+      "start": 243.42
+   },
+   {
+      "text": "on the other hand if the option buyer is",
+      "start": 246.959
+   },
+   {
+      "text": "bearish he can use the other category of",
+      "start": 249.12
+   },
+   {
+      "text": "options called put options to speculate",
+      "start": 251.58
+   },
+   {
+      "text": "a put option gives the option buyer the",
+      "start": 254.7
+   },
+   {
+      "text": "right to sell the security at a",
+      "start": 257.1
+   },
+   {
+      "text": "predetermined price",
+      "start": 259.26
+   },
+   {
+      "text": "so for example",
+      "start": 261.12
+   },
+   {
+      "text": "if the exercise price is 165 and the",
+      "start": 263.04
+   },
+   {
+      "text": "stock closes at 140 after three months",
+      "start": 266.94
+   },
+   {
+      "text": "the put option buyer can still sell the",
+      "start": 269.759
+   },
+   {
+      "text": "stock at 165 dollars to the option",
+      "start": 272.58
+   },
+   {
+      "text": "seller and pocket the cash",
+      "start": 275.04
+   },
+   {
+      "text": "if however the stock closes above 165",
+      "start": 277.62
+   },
+   {
+      "text": "dollars the option seller gets to keep",
+      "start": 280.919
+   },
+   {
+      "text": "the premium",
+      "start": 283.32
+   },
+   {
+      "text": "but how is a premium calculated",
+      "start": 285.78
+   },
+   {
+      "text": "the premium of options is derived from",
+      "start": 289.02
+   },
+   {
+      "text": "three main factors",
+      "start": 291.6
+   },
+   {
+      "text": "one the intrinsic value or the moneyness",
+      "start": 293.4
+   },
+   {
+      "text": "of the option which tells how much in",
+      "start": 296.16
+   },
+   {
+      "text": "the money the option is",
+      "start": 299.16
+   },
+   {
+      "text": "two time value of option the further out",
+      "start": 301.56
+   },
+   {
+      "text": "the expiration date of the option the",
+      "start": 304.919
+   },
+   {
+      "text": "higher its time value is",
+      "start": 307.02
+   },
+   {
+      "text": "and three implied volatility of the",
+      "start": 309.3
+   },
+   {
+      "text": "option the more volatile the option the",
+      "start": 311.699
+   },
+   {
+      "text": "higher its premium",
+      "start": 314.34
+   },
+   {
+      "text": "an option buyer has an unlimited upside",
+      "start": 318.18
+   },
+   {
+      "text": "and a defined downside because the most",
+      "start": 320.699
+   },
+   {
+      "text": "one can lose is the premium paid",
+      "start": 323.4
+   },
+   {
+      "text": "on the other hand the option seller has",
+      "start": 326.34
+   },
+   {
+      "text": "an unlimited downside and an upside",
+      "start": 328.8
+   },
+   {
+      "text": "limited to the premium received",
+      "start": 330.9
+   },
+   {
+      "text": "beyond the basic explanation of options",
+      "start": 336.18
+   },
+   {
+      "text": "there are several complexities that get",
+      "start": 338.46
+   },
+   {
+      "text": "added to this arrangement in the",
+      "start": 340.44
+   },
+   {
+      "text": "financial world but that will end up",
+      "start": 341.88
+   },
+   {
+      "text": "confusing you as a beginner",
+      "start": 344.039
+   },
+   {
+      "text": "therefore it's best to understand",
+      "start": 346.08
+   },
+   {
+      "text": "options in its most basic form and build",
+      "start": 347.639
+   },
+   {
+      "text": "your understanding gradually",
+      "start": 350.58
+   },
+   {
+      "text": "in a decentralized and non-digitized",
+      "start": 353.58
+   },
+   {
+      "text": "financial World entering into such",
+      "start": 356.039
+   },
+   {
+      "text": "contracts could be a nightmare for",
+      "start": 358.259
+   },
+   {
+      "text": "investors you have to find the",
+      "start": 360.18
+   },
+   {
+      "text": "counterparty decide on the terms of the",
+      "start": 362.22
+   },
+   {
+      "text": "contract and take the risk of the",
+      "start": 364.62
+   },
+   {
+      "text": "counterparty defaulting",
+      "start": 366.539
+   },
+   {
+      "text": "but thanks to technology all of this",
+      "start": 368.759
+   },
+   {
+      "text": "happens with the click of a button on",
+      "start": 370.74
+   },
+   {
+      "text": "most brokerages",
+      "start": 372.6
+   },
+   {
+      "text": "all you have to do is pick the asset you",
+      "start": 374.16
+   },
+   {
+      "text": "want to speculate on pick the exercise",
+      "start": 376.32
+   },
+   {
+      "text": "price or strike price and pay or receive",
+      "start": 378.419
+   },
+   {
+      "text": "the premium quoted on the exchange",
+      "start": 381.66
+   },
+   {
+      "text": "next comes the real art how to",
+      "start": 385.08
+   },
+   {
+      "text": "profitably trade options",
+      "start": 387.66
+   },
+   {
+      "text": "trading any instrument requires a",
+      "start": 389.94
+   },
+   {
+      "text": "mechanism to foresee the movement in the",
+      "start": 391.979
+   },
+   {
+      "text": "price",
+      "start": 393.84
+   },
+   {
+      "text": "this mechanism can be based on",
+      "start": 394.979
+   },
+   {
+      "text": "quantitative factors like charts and",
+      "start": 396.72
+   },
+   {
+      "text": "data or on qualitative factors like",
+      "start": 398.699
+   },
+   {
+      "text": "sentiments",
+      "start": 401.52
+   },
+   {
+      "text": "for example if your philosophy is",
+      "start": 403.259
+   },
+   {
+      "text": "breakout trading in stocks you will",
+      "start": 405.3
+   },
+   {
+      "text": "become alert when the stock you are",
+      "start": 407.52
+   },
+   {
+      "text": "eyeing to trade is breaking out on the",
+      "start": 408.9
+   },
+   {
+      "text": "chart",
+      "start": 410.759
+   },
+   {
+      "text": "once the breakout happens you can buy",
+      "start": 411.78
+   },
+   {
+      "text": "call options and wait for the breakout",
+      "start": 414.12
+   },
+   {
+      "text": "to either work or fail",
+      "start": 416.28
+   },
+   {
+      "text": "the important part here is that you need",
+      "start": 420.0
+   },
+   {
+      "text": "to monitor the price of the underlying",
+      "start": 422.1
+   },
+   {
+      "text": "stock and trade the options when certain",
+      "start": 423.78
+   },
+   {
+      "text": "trading conditions are met",
+      "start": 425.699
+   },
+   {
+      "text": "while trading the underlying stock is",
+      "start": 429.36
+   },
+   {
+      "text": "straightforward trading options is much",
+      "start": 431.16
+   },
+   {
+      "text": "more complex and riskier",
+      "start": 433.62
+   },
+   {
+      "text": "you can multiply your Capital but you",
+      "start": 436.139
+   },
+   {
+      "text": "can also lose all the premium you paid",
+      "start": 438.78
+   },
+   {
+      "text": "it's worth noting that premiums can",
+      "start": 441.599
+   },
+   {
+      "text": "fluctuate considerably during the day",
+      "start": 443.699
+   },
+   {
+      "text": "based on the price of the underlying",
+      "start": 445.5
+   },
+   {
+      "text": "security",
+      "start": 447.18
+   },
+   {
+      "text": "so if the premium you paid at the time",
+      "start": 449.46
+   },
+   {
+      "text": "of buying the contract was ten dollars",
+      "start": 451.68
+   },
+   {
+      "text": "when the price of underlying was a",
+      "start": 453.3
+   },
+   {
+      "text": "hundred dollars the premium could be",
+      "start": 455.34
+   },
+   {
+      "text": "quoted at twenty five dollars if the",
+      "start": 457.319
+   },
+   {
+      "text": "price moves by twenty percent to a",
+      "start": 459.12
+   },
+   {
+      "text": "hundred and twenty dollars",
+      "start": 461.099
+   },
+   {
+      "text": "that's a 150 return on the premium paid",
+      "start": 462.96
+   },
+   {
+      "text": "versus a twenty percent return on the",
+      "start": 466.319
+   },
+   {
+      "text": "underlying asset",
+      "start": 468.9
+   },
+   {
+      "text": "on the other hand if the underlying",
+      "start": 470.759
+   },
+   {
+      "text": "price goes down by twenty percent the",
+      "start": 472.5
+   },
+   {
+      "text": "premium can see a 90 decline this is the",
+      "start": 474.9
+   },
+   {
+      "text": "impact of Leverage",
+      "start": 478.68
+   },
+   {
+      "text": "the bottom line is that a small movement",
+      "start": 481.62
+   },
+   {
+      "text": "in the underlying price can lead to a",
+      "start": 483.66
+   },
+   {
+      "text": "large movement in the option premium",
+      "start": 485.46
+   },
+   {
+      "text": "this movement largely depends on three",
+      "start": 487.8
+   },
+   {
+      "text": "factors that we touched on earlier",
+      "start": 490.02
+   },
+   {
+      "text": "this magnifying or leveraging can help",
+      "start": 492.78
+   },
+   {
+      "text": "options traders to be profitable with a",
+      "start": 495.479
+   },
+   {
+      "text": "small amount of equity provided they",
+      "start": 497.4
+   },
+   {
+      "text": "have a system of positive expectancy",
+      "start": 499.5
+   },
+   {
+      "text": "therefore having a system is the most",
+      "start": 502.58
+   },
+   {
+      "text": "important aspect of trading options you",
+      "start": 505.319
+   },
+   {
+      "text": "can't randomly buy and sell options and",
+      "start": 507.96
+   },
+   {
+      "text": "expect to be profitable",
+      "start": 509.94
+   },
+   {
+      "text": "to trade options successfully you need",
+      "start": 513.0
+   },
+   {
+      "text": "to identify an underlying asset that you",
+      "start": 515.459
+   },
+   {
+      "text": "can track on a regular basis and",
+      "start": 517.62
+   },
+   {
+      "text": "understand its movements in and out",
+      "start": 519.539
+   },
+   {
+      "text": "this underlying asset can be stocks and",
+      "start": 522.779
+   },
+   {
+      "text": "index Commodities or currencies there",
+      "start": 525.54
+   },
+   {
+      "text": "are many finer aspects of trading",
+      "start": 528.839
+   },
+   {
+      "text": "options that you will learn as you",
+      "start": 530.339
+   },
+   {
+      "text": "continue trading options",
+      "start": 531.66
+   },
+   {
+      "text": "and finally the most important aspect of",
+      "start": 535.5
+   },
+   {
+      "text": "options trading is risk management",
+      "start": 537.959
+   },
+   {
+      "text": "because of the magnifying effect of",
+      "start": 540.959
+   },
+   {
+      "text": "potential losses the best options",
+      "start": 542.64
+   },
+   {
+      "text": "Traders don't risk more than two percent",
+      "start": 544.68
+   },
+   {
+      "text": "of their capital in one trade",
+      "start": 546.42
+   },
+   {
+      "text": "as trades have the potential to go down",
+      "start": 549.14
+   },
+   {
+      "text": "to zero large exposures can prove to be",
+      "start": 551.58
+   },
+   {
+      "text": "fatal for your trading account",
+      "start": 554.22
+   },
+   {
+      "text": "such losses are sharp and quick can",
+      "start": 556.56
+   },
+   {
+      "text": "happen more often than one can imagine",
+      "start": 558.72
+   },
+   {
+      "text": "remember it's best to start small while",
+      "start": 561.6
+   },
+   {
+      "text": "trading options and build a skill set",
+      "start": 564.06
+   },
+   {
+      "text": "that helps you generate profits on a",
+      "start": 565.86
+   },
+   {
+      "text": "consistent basis",
+      "start": 567.6
+   },
+   {
+      "text": "after a lot of practice you could have a",
+      "start": 569.459
+   },
+   {
+      "text": "decent trading system that throws trades",
+      "start": 571.62
+   },
+   {
+      "text": "on a consistent basis and is more right",
+      "start": 573.6
+   },
+   {
+      "text": "than wrong",
+      "start": 575.82
+   },
+   {
+      "text": "it's only then that you can expect to be",
+      "start": 577.22
+   },
+   {
+      "text": "a profitable options Trader",
+      "start": 580.019
+   },
+   {
+      "text": "thanks for watching",
+      "start": 582.6
+   }
+]
