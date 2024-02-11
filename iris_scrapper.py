@@ -9,6 +9,7 @@ from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs
 from youtube_transcript_api import YouTubeTranscriptApi
+from flask import Flask, request
 
 # Function to generate random string
 def get_long_word(subtitles):
@@ -29,6 +30,8 @@ def get_description_from_google(driver, query):
 # Initialize Chrome webdriver
 driver = webdriver.Chrome()
 
+app = Flask(__name__)
+
 class VideoMetadata:
     def __init__(self, video_link):
         self.video_link = video_link
@@ -43,8 +46,9 @@ class VideoMetadata:
     def extract_video_id(self):
         parsed_url = urlparse(self.video_link)
         query_params = parse_qs(parsed_url.query)
-        print(query_params.get('v', [''])[0])
-        return query_params.get('v', [''])[0]
+        # print(query_params.get('v', [''])[0])
+        var = query_params.get('v', [''])[0]
+        return var
 
     def get_video_length(self):
         with youtube_dl.YoutubeDL(self.ydl_opts) as ydl:
@@ -57,33 +61,45 @@ class VideoMetadata:
         return dict_meta.get('title', '')
 
     def get_caption(self):
+
+        # extractor for TEXT_AND_TIME 
         timed_transcript = YouTubeTranscriptApi.list_transcripts(self.video_id)
-        full_transcript = YouTubeTranscriptApi.get_transcript(self.video_id)
+        timed_data = []
 
         # iterate over all available transcripts
         for transcript in timed_transcript:
-            timed_data = transcript.fetch()
+            segments = transcript.fetch()
+
+            # extract text and start fields and add to timed_data
+            for segment in segments:
+                timed_data.append({"text": segment['text'], "start":segment["start"]})
         
+        with open("timed_text.json", "w") as file:
+            json.dump(timed_data, file, indent=3)
+        #------END of TEXT_AND_TIME-------------------
+            
+        # extractor for TEXT_ONLY caption
+        full_transcript = YouTubeTranscriptApi.get_transcript(self.video_id)
         # write whole video transcript to subtitle.txt
-        with open("subtitles.txt", "a") as file:
+        with open("subtitles.txt", "w") as file:
             for i in full_transcript:
                 file.write(i['text'])
+        #------END of TEXT_ONLY-----------------------
 
-        # write list of dicts to json and export as "timed_text.json"
-        json_data = json.dumps(timed_data, indent=3)
-        with open("timed_text.json", "w") as file:
-            file.write(json_data)
+@app.route('/', methods=['POST'])
+def process_video():
+    # Extract video link from POST request
+    video_link = request.form['video_link']
+    # Create an instance of VideoMetadata and get the video length
+    video = VideoMetadata(video_link)
+    length = video.get_video_length()
+    title = video.get_video_title()
+    vid_id = video.extract_video_id()
+    caption = video.get_caption()
+    random_timing = random.randint(0, length)
+    driver.execute_script(f"window.open('{video_link}');")
+    print("Title of the video:", title)
+    return "Video processed successfully."
 
-
-# Input video link
-video_link = input("Enter the YouTube video link: ")
-
-# Create an instance of VideoMetadata and get the video length
-video = VideoMetadata(video_link)
-length = video.get_video_length()
-title = video.get_video_title()
-vid_id = video.extract_video_id()
-caption = video.get_caption()
-random_timing = random.randint(0, length)
-driver.execute_script(f"window.open('{video_link}');")
-print("Title of the video:", title)
+if __name__ == '__main__':
+    app.run(debug=True)
