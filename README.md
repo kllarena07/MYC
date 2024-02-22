@@ -3,10 +3,7 @@
 # Hacklytics 2024: "My YouTube Companion" by Vansh Bataviya, Kieran Llarena, Sadokat Raupova, Iris  Shakya, 
 
 ---
-
-![MYC Logo](https://github.com/vanshb03/Hacklytics2024/assets/158211829/d96b39e1-b04b-4b56-9c64-2b26b7e9cebc)
-
----
+<img src="https://github.com/vanshb03/Hacklytics2024/assets/158211829/d96b39e1-b04b-4b56-9c64-2b26b7e9cebc" width="350" />
 
 ## Introduction: 
 
